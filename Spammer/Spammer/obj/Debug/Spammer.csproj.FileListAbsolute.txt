@@ -1,0 +1,15 @@
+C:\Users\mrcla\source\repos\Spammer\Spammer\bin\Debug\Spammer.exe.config
+C:\Users\mrcla\source\repos\Spammer\Spammer\bin\Debug\Spammer.exe
+C:\Users\mrcla\source\repos\Spammer\Spammer\bin\Debug\Spammer.pdb
+C:\Users\mrcla\source\repos\Spammer\Spammer\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\mrcla\source\repos\Spammer\Spammer\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\mrcla\source\repos\Spammer\Spammer\bin\Debug\Bunifu.Licensing.dll
+C:\Users\mrcla\source\repos\Spammer\Spammer\obj\Debug\Spammer.csproj.AssemblyReference.cache
+C:\Users\mrcla\source\repos\Spammer\Spammer\obj\Debug\Spammer.Form1.resources
+C:\Users\mrcla\source\repos\Spammer\Spammer\obj\Debug\Spammer.Properties.Resources.resources
+C:\Users\mrcla\source\repos\Spammer\Spammer\obj\Debug\Spammer.csproj.GenerateResource.cache
+C:\Users\mrcla\source\repos\Spammer\Spammer\obj\Debug\Spammer.exe.licenses
+C:\Users\mrcla\source\repos\Spammer\Spammer\obj\Debug\Spammer.csproj.CoreCompileInputs.cache
+C:\Users\mrcla\source\repos\Spammer\Spammer\obj\Debug\Spammer.csproj.CopyComplete
+C:\Users\mrcla\source\repos\Spammer\Spammer\obj\Debug\Spammer.exe
+C:\Users\mrcla\source\repos\Spammer\Spammer\obj\Debug\Spammer.pdb
